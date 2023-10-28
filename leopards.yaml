@@ -1,6 +1,6 @@
 team: Leopards
 
-manager: Nora
+manager: Dooli
 
 coach: Melissa
 
@@ -9,4 +9,9 @@ members:
 - William
 - David
 - Olivia
+<<<<<<< HEAD
 - Hyeeun
+=======
+- Evie
+- Dongho
+>>>>>>> 66b09151eee161baaba27bc180feec080ef5c5d2
